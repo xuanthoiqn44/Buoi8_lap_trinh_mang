@@ -1,0 +1,10 @@
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\bin\Debug\bai2-2.exe.config
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\bin\Debug\bai2-2.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\bin\Debug\bai2-2.pdb
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\obj\Debug\bai2-2.csprojResolveAssemblyReference.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\obj\Debug\bai2_2.Form1.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\obj\Debug\bai2_2.Properties.Resources.resources
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\obj\Debug\bai2-2.csproj.GenerateResource.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\obj\Debug\bai2-2.csproj.CoreCompileInputs.cache
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\obj\Debug\bai2-2.exe
+E:\hoc_tap\Nam_3_HK2\Lap_trinh_mang\buoi8\bai2-2\bai2-2\obj\Debug\bai2-2.pdb
